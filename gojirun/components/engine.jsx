@@ -176,7 +176,7 @@ export default function Engine() {
         onClick={onClick}
         className=" text-primary font-semibold animate-pulse antialiased"
       >
-        {isGameOver ? "R E S T A R T" : "S T A R T   G A M E"}
+        {isGameOver ? "R E S T A R T" : "S T A R T   G A M E"} // if write or choose 
       </button>
     </span>
   );
